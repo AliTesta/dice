@@ -1,0 +1,62 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #2F3C7E;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 5px 0 #2c333b;
+  font-size: 2rem;
+  font-weight: 500;
+  color: #fbc4c8;
+  font-family: lucida handwriting;
+}
+
+h2, h3, h4 {
+  margin: 30px;
+  font-size: 1rem;
+  font-weight: 350;
+  color: #FBEAEB;
+}
+
+p {
+  color: #FBEAEB;
+}
+
+img {
+  width: 80%;
+  background-color: #f9bcc1;
+  border-radius: 30%;
+  mix-blend-mode: hard-light;
+}
+
+
+.myBtn {
+  margin: 30px;
+  border: none;
+  padding: 7px 15px;
+  background-color:#f9bcc1;
+  color:#000000;
+  cursor: pointer;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
